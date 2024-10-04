@@ -43,7 +43,7 @@ Além desses, tenho outros conhecimentos que ainda estou desenvolvendo, como o d
 <b>Principais repositórios</b>
 <div width="100%" align="center"> 
   <a href="https://github.com/Gabriel-Farias-06/ESTOQUE-LOGISTICO" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Farias-UCB&repo=ESTOQUE-LOGISTICO&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=pt-BR" />
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Farias-06&repo=ESTOQUE-LOGISTICO&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=pt-BR" />
   </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
