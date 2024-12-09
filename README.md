@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-farias-06&label=Profile%20views&color=0e75b6&style=flat" alt="gabriel-farias-06" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabriel-farias-06" alt="gabriel-farias-06" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gabriel-farias-06" alt="Gabriel-farias-06" /></a> </p>
 
 - 🔭 Estou trabalhando no projeto [Bikcraft](https://github.com/Gabriel-Farias-06/bikcraft)
 
