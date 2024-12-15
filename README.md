@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gabriel-farias-06" alt="Gabriel-farias-06" /></a> </p>
 
-- 🔭 Estou trabalhando no projeto [Bikcraft](https://github.com/Gabriel-Farias-06/bikcraft)
+- 🔭 Estou trabalhando no meu portfólio atualmente.
 
 - 🌱 Estou atualmente aprendendo **banco de dados, JavaScript, UI & UX-Design.**
 
-- 🏆 Terminei recentemente o projeto [Bancash](https://github.com/Gabriel-Farias-06/Bancash)
+- 🏆 Terminei recentemente o projeto [Bikcraft](https://github.com/Gabriel-Farias-06/bikcraft).
 
 - 👨‍💻 Meus projetos estão disponíveis em **https://github.com/Gabriel-Farias-06?tab=repositories. No readme de cada projeto tem sua forma de executá-lo.**
 
