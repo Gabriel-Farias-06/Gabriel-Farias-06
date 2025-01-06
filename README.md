@@ -7,7 +7,7 @@
 
 - 🔭 Estou trabalhando no meu portfólio atualmente.
 
-- 🌱 Estou atualmente aprendendo **banco de dados, JavaScript, UI & UX-Design.**
+- 🌱 Estou atualmente aprendendo **banco de dados, React, UI & UX-Design.**
 
 - 🏆 Terminei recentemente o projeto [Bikcraft](https://github.com/Gabriel-Farias-06/bikcraft).
 
