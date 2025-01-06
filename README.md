@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Meu nome é Gabriel do Rego Farias</h1>
 <h3 align="center">Desenvolvedor Full-Stack. Estudante de Ciência da Computação</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-farias-06&label=Profile%20views&color=0e75b6&style=flat" alt="gabriel-farias-06" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-farias-06&label=Profile%20views&color=0e75b6&style=flat" alt="Gabriel-Farias-06" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gabriel-farias-06" alt="Gabriel-farias-06" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gabriel-Farias-06" alt="Gabriel-farias-06" /></a> </p>
 
 - 🔭 Estou trabalhando no meu portfólio atualmente.
 
