@@ -7,7 +7,7 @@
 
 - 🔭 Estou trabalhando no projeto Dogs atualmente.
 
-- 🌱 Estou atualmente aprendendo **banco de dados, React & UX-Design.**
+- 🌱 Estou atualmente aprendendo **banco de dados, React.**
 
 - 🏆 Terminei recentemente meu [Portfólio](https://github.com/Gabriel-Farias-06/portfolio).
 
