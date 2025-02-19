@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gabriel-Farias-06" alt="Gabriel-farias-06" /></a> </p>
 
-- 📖 Acesse meu [Portfólio](https://github.com/Gabriel-Farias-06/portfolio).
+- 📖 Acesse meu [Portfólio](https://gabriel-farias-06.github.io/portfolio/index.html).
 
 - 🔭 Estou trabalhando no projeto Dogs atualmente.
 
