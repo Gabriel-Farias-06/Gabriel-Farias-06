@@ -19,7 +19,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## Links e meios de contato
-[![Portfólio](https://img.shields.io/badge/Portfólio-%23E4405F?style=for-the-badge)](https://github.com/Gabriel-Farias-06/portfolio)
+[![Portfólio](https://img.shields.io/badge/Portfólio-%23E4405F?style=for-the-badge)](https://gabriel-farias-06.github.io/portfolio)
 [![Projetos](https://img.shields.io/badge/Projetos-%23E4405F?style=for-the-badge)](https://github.com/Gabriel-Farias-06?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3670A0?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-do-rego-farias-138378322/)
 [![Instagram](https://img.shields.io/badge/Instagram-e91e63?style=for-the-badge&logo=instagram)](https://www.instagram.com/gabriel___farias___)
