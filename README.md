@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, Meu nome é Gabriel do Rego Farias</h1>
-<h3 align="center">Desenvolvedor Full-Stack. Estudante de Ciência da Computação</h3>
+<h2 align="center">Olá 👋, Eu sou o Gabriel</h2>
+<h2 align="center">Desenvolvedor Full-Stack. Estudante de Ciência da Computação</h2>
 
 ## Linguagens e ferramentas
 ![Markdown](https://img.shields.io/badge/Markdown-333?style=for-the-badge&logo=markdown)
